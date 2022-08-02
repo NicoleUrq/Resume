@@ -1,2 +1,2 @@
 # Resume
-An introduction and list of my skills 
+An introduction of my objective and list of my skills 
