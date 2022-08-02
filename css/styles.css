@@ -1,0 +1,104 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.first-div{
+    color: white;
+    background-color: #538CE0;
+    height: auto;
+    margin-bottom: 0;
+}
+
+.title{
+    margin: auto;
+    padding: 4rem 50% 2rem;
+}
+
+.profesion{
+    margin: 0;
+    padding: 0 50% 2rem;
+}
+
+.grad{
+    border-color: black 1px;
+    border-radius: 100%;
+    height: 15rem;
+    margin: 0;
+    padding: 0 45% 2rem;
+    position: relative;
+    
+}
+
+
+.second-div{
+    color: #538CE0;
+    height: auto;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+
+.objective{
+    padding: 1rem 5rem 0;
+    text-align: center;
+}
+
+.graphs{
+    border: 1px solid black;
+}
+
+
+.third-div{
+    color: white;
+    background-color: #538CE0;
+    height: auto;
+    margin-bottom: 0;
+    padding-bottom: 2rem;
+}
+
+.table{
+    margin: 0;
+    padding: 3rem 15rem 5rem;
+}
+
+.header{
+    background-color: #121E30;
+    color: white;
+}
+
+.footer{
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    background-color: #121E30;
+    color: white;
+}
+
+.wap{
+    color: white;
+    text-decoration: none;
+}
+
+.wap:hover{
+    color: green;
+}
+
+.linkedin{
+    color: white;
+    text-decoration: none;
+}
+
+.linkedin:hover{
+    color: blue;
+}
+
+
+.insta{
+    color: white;
+    text-decoration: none;
+}
+
+.insta:hover{
+    color: purple;
+}
